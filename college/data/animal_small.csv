@@ -1,0 +1,8 @@
+animal,is it warm blooded?,can it fly?,is it a vertebrate?,is it endangered?,does it live in groups?,does it have hair?
+ant,0,0,0,0,1,0
+bee,0,1,0,0,1,1
+cat,1,0,1,0,0,1
+cpl,0,0,0,0,0,1
+duck,1,1,1,0,1,0
+eagle,1,1,1,1,0,0
+elephant,1,0,1,1,1,0
